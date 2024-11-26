@@ -2,7 +2,8 @@
 #ignore this file, it is just to create the folder structure
 .vs/
 .randomFolder/
+.randomFoler2/
 
-
+#ignore all files in the folder
 
 
